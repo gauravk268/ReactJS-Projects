@@ -2,6 +2,8 @@
 
 #### A simple Cart App which have all the functionalities of a cart on any e-commerce site, built with React, JavaScript, CSS and Bootstrap.
 
+## Want to see a hosted version? Goto: https://gauravk268dev-cart-app.netlify.app
+
 ## Functionalities:
 
 	- Increase/Decrease quantity of products
