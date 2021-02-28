@@ -3,8 +3,11 @@
 #### A simple To-Do List App built with React, JavaScript and CSS.
 
 ## Functionalities:
-
-	- IN PROGRESS
+	- Add to-do item to the app
+	- Mark each to-do as completed or uncompleted
+	- Delete any to-do item
+	- Show all or completed/uncompleted to-do items
+	- Saves all to-do items in local storage so that it remains on refresh
 	
 ## Installation and Setup Instructions
 

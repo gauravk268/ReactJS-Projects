@@ -1,22 +1,19 @@
 # Cart app
 
-#### A simple Cart App which have all the functionalities of a cart on any e-commerce site, built with React, JavaScript, CSS and Bootstrap.
+#### A simple Cart App which have all the functionalities of a cart on any e-commerce site, built with React, JavaScript and CSS.
 
-## Want to see a hosted version? Goto: https://gauravk268dev-cart-app.netlify.app
+#### Want to see a hosted version? Goto: https://gauravk268dev-cart-app.netlify.app
 
 ## Functionalities:
 
 	- Increase/Decrease quantity of products
-	
 	- Remove any product from cart
-	
 	- Show Count of total items in the Cart
-	
 	- Show total cost of the Products in the Cart
 	
 ## Installation and Setup Instructions
 
-Clone down this repository and cd to cart-app. You will need `node` and `npm` installed globally on your machine.  
+Clone down this repository and cd to cart-app. You will need `node` and `npm` installed globally on your machine.
 
 Installation:
 
