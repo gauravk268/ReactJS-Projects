@@ -1,7 +1,10 @@
 # React_Projects
 
+## Projects List
 
-## Completed Projects 
-
-- Cart-App https://gauravk268dev-cart-app.netlify.app
-- Todo-App https://gauravk268dev-todo-app.netlify.app
+| Project Name | Status | Hosted version Link |
+| :---: | :----: | :---: |
+| Cart-App | Completed | https://gauravk268dev-cart-app.netlify.app |
+| Todo-App | Completed | https://gauravk268dev-todo-app.netlify.app |
+| Portfolio-App | Working | NA |
+| Store-App | Working | NA |
