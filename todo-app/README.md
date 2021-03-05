@@ -2,7 +2,7 @@
 
 #### A simple To-Do List App built with React, JavaScript and CSS.
 
-#### Want to see a hosted version? Goto: gauravk268dev-todo-app.netlify.app
+#### Want to see a hosted version? Goto: https://gauravk268dev-todo-app.netlify.app
 
 ## Functionalities:
 	- Add to-do item to the app
