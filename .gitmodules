@@ -1,0 +1,3 @@
+[submodule "store-app"]
+	path = store-app
+	url = ./store-app/
