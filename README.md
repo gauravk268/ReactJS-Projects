@@ -8,3 +8,4 @@
 | Todo-App | Completed | https://gauravk268dev-todo-app.netlify.app |
 | Portfolio-App | Working | NA |
 | Store-App | Working | NA |
+| Social-Media-App | Working | NA |
