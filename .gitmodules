@@ -4,3 +4,6 @@
 [submodule "React-Todo-App"]
 	path = React-Todo-App
 	url = https://github.com/gauravk268/React-Todo-App
+[submodule "React-Firebase-Auth-App"]
+	path = React-Firebase-Auth-App
+	url = https://github.com/gauravk268/React-Firebase-Auth-App
