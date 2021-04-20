@@ -7,3 +7,6 @@
 [submodule "React-Firebase-Auth-App"]
 	path = React-Firebase-Auth-App
 	url = https://github.com/gauravk268/React-Firebase-Auth-App
+[submodule "Hack36_CodeBrigade"]
+	path = Hack36_CodeBrigade
+	url = https://github.com/gauravk268/Hack36_CodeBrigade.git
