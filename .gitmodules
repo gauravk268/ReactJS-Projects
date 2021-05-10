@@ -10,3 +10,6 @@
 [submodule "Hack36_CodeBrigade"]
 	path = Hack36_CodeBrigade
 	url = https://github.com/gauravk268/Hack36_CodeBrigade.git
+[submodule "ReactJS_Portfolio-App"]
+	path = ReactJS_Portfolio-App
+	url = https://github.com/gauravk268/ReactJS_Portfolio-App.git
