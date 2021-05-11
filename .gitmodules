@@ -1,15 +1,15 @@
-[submodule "React-Store-App"]
-	path = React-Store-App
-	url = https://github.com/gauravk268/React-Store-App
-[submodule "React-Todo-App"]
-	path = React-Todo-App
-	url = https://github.com/gauravk268/React-Todo-App
-[submodule "React-Firebase-Auth-App"]
-	path = React-Firebase-Auth-App
-	url = https://github.com/gauravk268/React-Firebase-Auth-App
+[submodule "React-Store_App"]
+	path = React-Store_App
+	url = https://github.com/gauravk268/ReactJS-Store_App
+[submodule "ReactJS-Todo_App"]
+	path = ReactJS-Todo_App
+	url = https://github.com/gauravk268/ReactJS-Todo_App
+[submodule "ReactJS-Firebase_Auth_App"]
+	path = ReactJS-Firebase_Auth_App
+	url = https://github.com/gauravk268/ReactJS-Firebase_Auth_App
 [submodule "Hack36_CodeBrigade"]
 	path = Hack36_CodeBrigade
 	url = https://github.com/gauravk268/Hack36_CodeBrigade.git
-[submodule "ReactJS_Portfolio-App"]
-	path = ReactJS_Portfolio-App
-	url = https://github.com/gauravk268/ReactJS_Portfolio-App.git
+[submodule "ReactJS-Portfolio_App"]
+	path = ReactJS-Portfolio_App
+	url = https://github.com/gauravk268/ReactJS-Portfolio_App.git
