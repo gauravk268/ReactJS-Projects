@@ -13,3 +13,6 @@
 [submodule "ReactJS-Portfolio_App"]
 	path = ReactJS-Portfolio_App
 	url = https://github.com/gauravk268/ReactJS-Portfolio_App.git
+[submodule "ReactJS-Store_App"]
+	path = ReactJS-Store_App
+	url = https://github.com/gauravk268/ReactJS-Store_App
