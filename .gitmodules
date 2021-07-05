@@ -16,3 +16,6 @@
 [submodule "ReactJS-Store_App"]
 	path = ReactJS-Store_App
 	url = https://github.com/gauravk268/ReactJS-Store_App
+[submodule "ReactJS-Socket.io-Simple_Chat_App"]
+	path = ReactJS-Socket.io-Simple_Chat_App
+	url = https://github.com/gauravk268/ReactJS-Socket.io-Simple_Chat_App
