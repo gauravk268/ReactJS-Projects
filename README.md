@@ -1,4 +1,5 @@
 # React_Projects
+This repository is a compilation of repositories of ReactJS projects that I have practiced. Some projects have been developed by myself, some are practiced following tutorials from youtube, and some are created in a team.
 
 ## Projects List
 
