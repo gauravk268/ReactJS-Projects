@@ -2,11 +2,12 @@
 
 ## Projects List
 
-| Project Name | Status | Hosted version Link |
-| :---: | :----: | :---: |
-| Portfolio-App | Completed | https://gauravk268.netlify.app |
-| Cart-App | Completed | https://gauravk268dev-cart-app.netlify.app |
-| Todo-App | Completed | https://gauravk268dev-todo-app.netlify.app |
-| Firebase-Auth-App | Completed | https://gauravk268-firebase-auth-app.netlify.app | 
-| Store-App | Working | https://gauravk268-store-app.netlify.app |
-| Social-Media-App | Working | NA |
+| Project Name | Status | Hosted version Link | Alternate Link |
+| :--- | :---- | :--- | :--- |
+| Portfolio-App | Completed | [gauravk.co](https://gauravk.co) | [Alternate](https://gauravk268.netlify.app) |
+| Cart-App | Completed | [gauravk268dev-cart-app.netlify.app](https://gauravk268dev-cart-app.netlify.app) | NA |
+| Todo-App | Completed | [todo-app.gauravk.co](https://todo-app.gauravk.co) | [Alternate](https://gauravk268-todo-app.netlify.app) |
+| Firebase-Auth-App | Completed | [firebase-auth-app.gauravk.co](https://firebase-auth-app.gauravk.co) | [Alternate](https://gauravk268-firebase-auth-app.netlify.app) | 
+| Chat-App | Completed | [simple-chat-app.gauravk.co](https://simple-chat-app.gauravk.co) | [Alternate](https://gauravk268-simple-chat-app.netlify.app) | 
+| Store-App | Working | [gauravk268-store-app.netlify.app](https://gauravk268-store-app.netlify.app) | NA |
+| Social-Media-App | Working | NA | NA |
